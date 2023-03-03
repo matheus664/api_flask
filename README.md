@@ -1,1 +1,5 @@
-#api_flask
+
+
+
+Aplicação flask com padrão Rest.
+
