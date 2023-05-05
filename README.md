@@ -1,5 +1,3 @@
 
-
-
-Aplicação flask com padrão Rest.
+API utilizando padrão de projeto MVT (Model View Template) com Framework flask, escrito em Python.
 
